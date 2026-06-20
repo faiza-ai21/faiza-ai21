@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Faiza 👋
 
-<!--
-**faiza-ai21/faiza-ai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
+🤖 AI Enthusiast
+💻 Learning Python & Artificial Intelligence
+🚀 Exploring the future through technology
 
-Here are some ideas to get you started:
+### Currently Learning
+* Python
+* Artificial Intelligence
+* Machine Learning Fundamentals
+* Git & GitHub
+* Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+* Build AI Projects
+* Improve Programming Skills
+* Contribute to Open Source
+* Grow as an AI Developer
+
+## Skills
+* Python (Beginner)
+* Git & GitHub
+* AI Fundamentals
+* Problem Solving
+*
