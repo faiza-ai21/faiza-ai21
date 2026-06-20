@@ -45,5 +45,8 @@
 
 ### 📬 Connect With Me
 
-📧 **Email:** [faiza@example.com](mailto:faiza@example.com) 
-🌐 **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+📧 **Email:** <a href="mailto:faizaahmad774@gmail.com" style="color: #0076FF; font-weight: bold; text-decoration: underline; text-decoration-thickness: 2px;">faizaahmad774@gmail.com</a>
+
+💼 **LinkedIn:** <a href="https://pk.linkedin.com/in/faiza-ahmad-b59825350" style="color: #0076FF; font-weight: bold; text-decoration: underline; text-decoration-thickness: 2px;">Faiza Ahmad Profile</a>
+
+---
