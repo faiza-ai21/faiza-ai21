@@ -47,6 +47,6 @@
 
 📧 **Email:** <a href="mailto:faizaahmad774@gmail.com" style="color: #0076FF; font-weight: bold; text-decoration: underline; text-decoration-thickness: 2px;">faizaahmad774@gmail.com</a>
 
-💼 **LinkedIn:** <a href="https://pk.linkedin.com/in/faiza-ahmad-b59825350" style="color: #0076FF; font-weight: bold; text-decoration: underline; text-decoration-thickness: 2px;">Faiza Ahmad Profile</a>
+💼 **LinkedIn:** <a href="https://pk.linkedin.com/in/faiza-ahmad-b59825350" style="color: #0076FF; font-weight: bold; text-decoration: underline; text-decoration-thickness: 2px;">/faiza-ahmad-b59825350</a>
 
 ---
