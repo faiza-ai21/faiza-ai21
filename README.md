@@ -23,4 +23,3 @@
 * Git & GitHub
 * AI Fundamentals
 * Problem Solving
-*
